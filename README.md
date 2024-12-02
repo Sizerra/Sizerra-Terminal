@@ -1,5 +1,5 @@
 # SizerraTerminal
-# Sizerra AI Agent 🌌
+# Sizerra AI Agent ⭐️
 
 Sizerra is a modular and extensible AI agent framework designed to interact with users, execute commands, and integrate seamlessly with plugins for additional functionality. This project serves as a foundation for building intelligent systems powered by AI.
 
