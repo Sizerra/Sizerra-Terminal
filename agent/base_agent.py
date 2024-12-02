@@ -2,7 +2,7 @@
 import random
 
 class BaseAgent:
-    def __init__(self, name="Lyreta"):
+    def __init__(self, name="Sizerra"):
         self.name = name
         self.tasks = []
         self.status = "idle"
