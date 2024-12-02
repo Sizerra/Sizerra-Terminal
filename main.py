@@ -4,7 +4,7 @@ from config import CONFIG
 
 if __name__ == "__main__":
     # Initialize the AI Agent
-    agent = LyretaAgent(name=CONFIG["agent_name"])
+    agent = SizerraAgent(name=CONFIG["agent_name"])
     command_handler = CommandHandler(agent)
 
     # Start the Agent
